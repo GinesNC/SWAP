@@ -1,6 +1,8 @@
 # cabecera
 ## cabecera 2
 *cursiva*
-**negrita***
+**negrita**
 ***prueba***
 
+
+[google](http://www.google.es)
