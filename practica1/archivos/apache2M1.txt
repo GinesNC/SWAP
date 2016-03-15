@@ -1,0 +1,7 @@
+root      1119  0.0  0.6  34044  6904 ?        Ss   12:01   0:00 /usr/sbin/apache2 -k start
+www-data  1312  0.0  0.3  34068  3772 ?        S    12:01   0:00 /usr/sbin/apache2 -k start
+www-data  1313  0.0  0.3  34068  3772 ?        S    12:01   0:00 /usr/sbin/apache2 -k start
+www-data  1314  0.0  0.3  34068  3772 ?        S    12:01   0:00 /usr/sbin/apache2 -k start
+www-data  1315  0.0  0.3  34068  3772 ?        S    12:01   0:00 /usr/sbin/apache2 -k start
+www-data  1316  0.0  0.3  34068  3772 ?        S    12:01   0:00 /usr/sbin/apache2 -k start
+gines     1694  0.0  0.0   4408   828 tty1     R+   12:38   0:00 grep --color=auto apache
