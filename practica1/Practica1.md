@@ -36,5 +36,5 @@ Para comprobar que las máquinas virtuales y mi máquina se comunican he hecho u
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica1/archivos/ip_maquinas.PNG)
 ***ping entre las máquinas***		
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica1/archivos/ping_entre_maquinas.PNG)
-***ping de las máquinas hacia windows ***		
+***ping de las máquinas hacia windows***		
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica1/archivos/ping_maquina_windows.PNG)
