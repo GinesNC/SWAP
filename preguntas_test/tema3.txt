@@ -1,0 +1,25 @@
+**Pregunta 1**
+
+<pregunta>
+  <enunciado>Para formar un backbone hace falta:</enunciado>
+  <opcionA>un switch y un router o hub.</opcionA>
+  <opcionB>una buena conexión a internet.</opcionB>
+  <opcionC>varios servidores con diferente configuración.</opcionC>
+  <opcionD>Todo de lo que dispongamos.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+************************************************************************************
+
+**Pregunta 2**
+
+<pregunta>
+  <enunciado>¿De qué depende la calidad de conexión a internet?</enunciado>
+  <opcionA>calidad de servicio y ancho de banda.</opcionA>
+  <opcionB>filtrado y bloqueo de paquetes.</opcionB>
+  <opcionC>network y addres translation.</opcionC>
+  <opcionD>Todas son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+**********************************************************************************
