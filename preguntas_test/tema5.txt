@@ -19,7 +19,7 @@
   <opcionB>Stress, Overload y Stability </opcionB>
   <opcionC>A y B son correctas </opcionC>
   <opcionD>Las empresas externas no realizan estas tareas. </opcionD>
-  <solucion> </solucion>
+  <solucion>C </solucion>
 </pregunta>
 
 ***********************************************************************************
