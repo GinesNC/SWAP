@@ -1,0 +1,28 @@
+**Pregunta 1**
+
+<pregunta>
+  <enunciado>¿Qué tareas hay que realizar para configurar un balanceador de carga? </enunciado>
+  <opcionA>Comprobar las diponibilidad de los servidores y derivar en función del tipo de tráfico. </opcionA>
+  <opcionB>No hay que realizar nunguna configuración. </opcionB>
+  <opcionC>Configurar el DNS asignando tres IP diferentes al mismo sitio </opcionC>
+  <opcionD>Todas son correctas. </opcionD>
+  <solucion>A </solucion>
+</pregunta>
+
+*************************************************************************************
+
+**Pregunta 2**
+
+<pregunta>
+  <enunciado>
+              ¿Qué algoritmo debe usar un balanceador de carga si una de las máquinas
+              es más potente que las otras?
+  </enunciado>
+  <opcionA>Basado en turnos (round-robin) </opcionA>
+  <opcionB>Basado en ponderación </opcionB>
+  <opcionC>Basado en prioridad </opcionC>
+  <opcionD>Basado en el menor número de conexiones. </opcionD>
+  <solucion>B </solucion>
+</pregunta>
+
+***********************************************************************************

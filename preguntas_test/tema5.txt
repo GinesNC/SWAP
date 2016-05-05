@@ -1,0 +1,25 @@
+**Pregunta 1**
+
+<pregunta>
+  <enunciado>El objetivo de medir prestaciones del sistema web es para: </enunciado>
+  <opcionA>Las dos son incorrectas. </opcionA>
+  <opcionB>Las dos son correctas. </opcionB>
+  <opcionC>Detectar caídas o errores de programación </opcionC>
+  <opcionD>Comprobar si cumple unos minimos requisitos de rendimiento </opcionD>
+  <solucion>D </solucion>
+</pregunta>
+
+*************************************************************************************
+
+**Pregunta 2**
+
+<pregunta>
+  <enunciado>¿qué pruebas hace una empresa externa pra comprobar el rendimiento? </enunciado>
+  <opcionA>Smoke, load, Capacity y Stress</opcionA>
+  <opcionB>Stress, Overload y Stability </opcionB>
+  <opcionC>A y B son correctas </opcionC>
+  <opcionD>Las empresas externas no realizan estas tareas. </opcionD>
+  <solucion> </solucion>
+</pregunta>
+
+***********************************************************************************

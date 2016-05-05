@@ -1,0 +1,25 @@
+**Pregunta 1**
+
+<pregunta>
+  <enunciado>¿Qué es defensa en profundidad? </enunciado>
+  <opcionA>Configurar varias capas de defensa para defender el sistema a varios niveles. </opcionA>
+  <opcionB> Configurar el cortafuegos. </opcionB>
+  <opcionC>Establecer politicas de seguridad. </opcionC>
+  <opcionD>Niguna es correcta. </opcionD>
+  <solucion>A </solucion>
+</pregunta>
+
+*************************************************************************************
+
+**Pregunta 2**
+
+<pregunta>
+  <enunciado>Las tareas que realiza el cortafuegos son: </enunciado>
+  <opcionA> Bloqueo y filtrado de paquetes  </opcionA>
+  <opcionB> Control de protocolos de aplicación y del tráfico de red a nivel protocolo de red </opcionB>
+  <opcionC>A y B son correctas </opcionC>
+  <opcionD>Evitar que se caliente el sistema a nivel hardware </opcionD>
+  <solucion>C </solucion>
+</pregunta>
+
+***********************************************************************************
