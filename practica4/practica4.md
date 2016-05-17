@@ -15,6 +15,8 @@ Las medias y desviación estandar de las diferentes medidas obtenidas son:
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_apache_1.PNG)
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_apache_2.PNG)
 
+**Conclusión:**
+Con la herramienta de apache el mejor balanceador es haproxy, ya que obtiene mejores resultados.
 
 ## **Siege**
 Para realizar las medidas he usado el siguiente comando:
@@ -31,6 +33,9 @@ Obteniendo las siguientes medidas:
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_siege_1.PNG)
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_siege_2.PNG)
 
+**Conclusión:**
+En este caso el balanceador montando haproxy es el que mejor resultados ha obtenido.
+
 ## **Openload**
 Para realizar las medidas he usado el siguiente comando:
 
@@ -44,6 +49,11 @@ Obteniendo las siguientes medidas:
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/mediaOpenload.PNG)
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_openload.PNG)
 
+**Conclusión:**
+En cambio con esta herramienta el balanceador que mejor puntuación obtiene es nginx.
 ****
 Todos los datos obtenidos se pueden consultar en el pdf de las [tablas]()
 ****
+**información sobre la realización de las pruebas**	
+Estos test han sido realizados sobre las máquinas virtuales creadas durante las diferentes sesiones de prácticas. Para llevar a cabo esas medidas he creado un script en el cual se realizaba una operación matemática y asignaciones durante unos 1000 ciclos.
+La máquina donde se ha montado todo es un intel core i7 de 3ª generación con 6 gb de RAM.
