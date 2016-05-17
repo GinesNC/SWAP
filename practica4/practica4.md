@@ -9,7 +9,7 @@ Para realizar las medidas he usado el siguiente comando:
 	 para el balanceador:
 		ab -n 100000 -c 100 http://192.168.140.132/test.html
 
-Las medias y desviación estandar de las diferentes medidas obtenidas son:
+Las medias y desviación estándar de las diferentes medidas obtenidas son:
 
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/grafica_media_apache.PNG)
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_apache_1.PNG)
