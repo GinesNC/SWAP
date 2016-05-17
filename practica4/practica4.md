@@ -52,7 +52,7 @@ Obteniendo las siguientes medidas:
 **Conclusión:**
 En cambio con esta herramienta el balanceador que mejor puntuación obtiene es nginx.
 ****
-Todos los datos obtenidos se pueden consultar en el pdf de las [tablas]()
+Todos los datos obtenidos se pueden consultar en el pdf de las [tablas](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/tabla.pdf)
 ****
 **información sobre la realización de las pruebas**	
 Estos test han sido realizados sobre las máquinas virtuales creadas durante las diferentes sesiones de prácticas. Para llevar a cabo esas medidas he creado un script en el cual se realizaba una operación matemática y asignaciones durante unos 1000 ciclos.
