@@ -11,8 +11,9 @@ Para realizar las medidas he usado el siguiente comando:
 
 Las medias y desviación estandar de las diferentes medidas obtenidas son:
 
-![img]()
-![img]()
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/grafica_media_apache.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_apache_1.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_apache_2.PNG)
 
 
 ## **Siege**
@@ -25,10 +26,10 @@ Para realizar las medidas he usado el siguiente comando:
 
 Obteniendo las siguientes medidas:
 
-![img]()
-![img]()
-![img]()
-![img]()
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/media_siege_1.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/media_siege_2.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_siege_1.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_siege_2.PNG)
 
 ## **Openload**
 Para realizar las medidas he usado el siguiente comando:
@@ -40,13 +41,9 @@ Para realizar las medidas he usado el siguiente comando:
 
 Obteniendo las siguientes medidas:
 
-![img]()
-![img]()
-![img]()
-![img]()
-
-## _Conclusión_
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/mediaOpenload.PNG)
+![img](https://github.com/GinesNC/SWAP/blob/master/practica4/archivos/DVest_openload.PNG)
 
 ****
-Todos los datos obtenidos se pueden consultar en la [tabla]()
+Todos los datos obtenidos se pueden consultar en el pdf de las [tablas]()
 ****
