@@ -63,7 +63,7 @@ El orden de las sentencias sería el siguiente:
   2- desde la maquina2 compruebo que el dato ha sido replicado.   
   3- desde la maquina2 vuelvo a insertar otro dato, en este caso prueba, 3.   
   4- Por último en la maquina1 compruebo que se replica correctamente.    
-![img]()
+![img](https://github.com/GinesNC/SWAP/blob/master/practica5/prueba.PNG)
 
 
 *************************************
