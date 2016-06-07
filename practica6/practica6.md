@@ -42,3 +42,23 @@ Para terminar esta práctica se vuelve a añadir al RAID, el disco extraido, y s
 ![img](https://github.com/GinesNC/SWAP/blob/master/practica6/archivos/add_RAID.PNG)
 
 *************************************
+#Parte opcional del servidor NFS.
+
+Para configurar esto debemos instalar en la máquina que actuara de servidor los siguientes paquetes:
+        
+        sudo apt-get install nfs-kernel-server portmap nfs-common
+        
+Posteriormente debemos configurar los archivos que serán accesibles por la máquina cliente, para eso añadimos en /etc/exports la siguiente linea:
+
+        /dat 192.168.0/24(rw,sync,no_subtree_check)
+
+Después reiniciamos el servicio _nfs-kernel-server_ y ejeutamos _exportfs -a_.
+
+Para poder acceder desde la máquina cliente hacemos lo siguiente:
+- Primero instalamos _nfs-common_.
+- Segundo se hace lo que se muestra en la imagen, donde la ip corresponde a la máquina donde está instalado el servidor NFS.
+
+![img](https://github.com/GinesNC/SWAP/blob/master/practica6/archivos/NFS_cliente.PNG)
+
+**************************************************
+
